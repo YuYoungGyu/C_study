@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 #pragma warning (disable : 4996)
 
 int input(const char*);
